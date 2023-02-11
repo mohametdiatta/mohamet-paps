@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm Mohamet Diatta, a full-time full-stack developer 👨‍💻 working from Senegal 🚀</div>
 
@@ -58,8 +57,6 @@
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 </td></tr></table>
 
 <br/>
@@ -82,8 +79,7 @@
 <a href="https://instagram.com/ganius__44" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -103,8 +99,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mohamet-paps&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
