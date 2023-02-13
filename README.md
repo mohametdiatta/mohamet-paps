@@ -109,7 +109,7 @@
 
 </td><td valign="top" width="50%">
 
-<div >
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=mohamet-paps&&style=flat-square" align="center" />
 </div>
 <br/>    
