@@ -103,7 +103,7 @@
 
 ## Profile Stats
 
-<table><tr><td valign="top" width="50%">
+<table  width="100%"><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lt6uj2hgoiy6xej3dmxk6a3kdq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>
 
