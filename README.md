@@ -2,7 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Mohamet Diatta, a full-time full-stack developer 👨‍💻 working from Senegal 🚀</div>
+## <div align="center">I'm Mohamet Diatta, a full-time full-stack developer 👨‍💻 working from Senegal 🚀</div>
+
+<br/>
 
 - 🔭 I’m currently learning [SwiftUI](https://swiftuidocs.com/)
 
@@ -85,19 +87,35 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamet-paps&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mohamet-paps&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamet-paps&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<br/>  
+  
 <br/>
 
-<br/>
+## Profile Stats
+
+<table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lt6uj2hgoiy6xej3dmxk6a3kdq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>
 
-<br/>
+</td><td valign="top" width="50%">
 
-<div align="center">
+<div >
 <img src="https://komarev.com/ghpvc/?username=mohamet-paps&&style=flat-square" align="center" />
 </div>
+<br/>    
+<br/>
+
+</td></tr></table>
 
 <br/>
 
