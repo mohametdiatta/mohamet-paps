@@ -6,11 +6,10 @@
 
 <br/>
 
-- 🔭 I’m currently learning [SwiftUI](https://swiftuidocs.com/)
+- 🔭 I’m currently learning [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 
 - ❓ Ask me about anything related to React and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces
 
 <br/>
 
@@ -118,14 +117,5 @@
 </td></tr></table>
 
 <br/>
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/mohametdiatta" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ---
